@@ -1,0 +1,3 @@
+[submodule "SPARQL-Environment"]
+	path = SPARQL-Environment
+	url = https://github.com/SPARQL-Environment/SPARQL-Environment
